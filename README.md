@@ -5,8 +5,8 @@ the Strait of Hormuz tanker escalation, the collapse of COP31 in Antalya, a Russ
 warship struck in Benghazi, a magnitude-7.2 quake off Indonesia, and the US midterms.
 
 `main.ts` copies `entry.png` (committed beside it) to `/output/entry.png`. Node 22
-standard library only, no network, no dependencies. The image itself was drawn with
-Pillow from `main.py`, kept here for provenance.
+standard library only, no network, no dependencies. The image itself was drawn with a
+Pillow script during the build; only the PNG and `main.ts` ship.
 
 Run it:
 
